@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.team {
+    border: 2px solid #333;
+    padding: 15px;
+    margin: 10px 0;
+    width: 80%;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.team h2 {
+    margin-top: 0;
+}
+
+.team p {
+    margin: 5px 0;
+}
